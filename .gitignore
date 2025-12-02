@@ -6,11 +6,17 @@ npm-debug.log*
 dist/
 chess/chess.js
 chess/chess.wasm
+apps/web/.next/
+apps/web/out/
+.next/
+.turbo/
 
 # Environment / secrets
 .env
 .env.*
 .env.local
+.env.production
+.env.development
 
 # Editor config
 .vscode/
