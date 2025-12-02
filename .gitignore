@@ -1,0 +1,18 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# Build artifacts
+dist/
+chess/chess.js
+chess/chess.wasm
+
+# Environment / secrets
+.env
+.env.*
+.env.local
+
+# Editor config
+.vscode/
+.DS_Store
+Thumbs.db

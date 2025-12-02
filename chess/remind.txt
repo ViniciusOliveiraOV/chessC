@@ -1,0 +1,1 @@
+To rebuild next time, run & "C:\emsdk\emsdk_env.ps1" in the same terminal, then build-wasm.ps1 from chessC.
